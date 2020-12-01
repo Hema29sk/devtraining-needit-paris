@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Update Priority">713b2f691b302010c360ff37dc4bcbda</button>
+        <item_parameter display_value="Update Priority">fa3beb4d1b7c2010c360ff37dc4bcb83</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 19:24:41</sys_created_on>
+        <sys_id>b34f23211b702010c360ff37dc4bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fa3beb4d1b7c2010c360ff37dc4bcb83</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b34f23211b702010c360ff37dc4bcb2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 19:24:41</sys_updated_on>
+        <ui_parameter display_value="Change Priority">339defad1b302010c360ff37dc4bcb17</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
